@@ -1,0 +1,22 @@
+.music_body {
+    background-image: url("/img/emilia-music-top.jpg");
+    background-position: center top;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+  }
+  .music_nav_principal {
+    background-color:rgba(255,255,255,0.6);
+    text-align: right;
+    padding: 5px;
+    margin-top: 60px;
+  }
+  .music_nav_sociales {
+    text-align: right;
+    padding: 5px;
+  }
+  .music_ul li {
+    display: inline;
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+  }
